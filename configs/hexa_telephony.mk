@@ -16,7 +16,7 @@
 include vendor/hexa/configs/hexa_main.mk
 
 # Telephony packages
-PRODUCT_PACKAGES += \
+#PRODUCT_PACKAGES += \
     Stk
 
 # Allow tethering without provisioning app
